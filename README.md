@@ -49,7 +49,7 @@ o	Databases such as MySQL, MongoDB, or PostgreSQL.
 3.	<b>Version Control Systems:</b> Tools like Git to manage and track changes in the codebase.
 4.<b>	APIs (Application Programming Interfaces):</b> For enabling communication between different parts of the application or with third-party services.
 5.	<b>DevOps and Deployment:</b> Knowledge of tools like Docker, Kubernetes, or cloud platforms (e.g., AWS, Azure, Google Cloud) for deploying and maintaining applications.
-Full Stack Development allows developers to handle end-to-end workflows, collaborate effectively across teams, and bring projects to completion efficiently. This makes Full Stack Developers highly sought after in the tech industry.
+Full Stack Development allows developers to handle end-to-end workflows, collaborate effectively across teams, and bring projects to completion efficiently. This makes Full Stack Developers highly sought after in the tech industry .
 
 
 
